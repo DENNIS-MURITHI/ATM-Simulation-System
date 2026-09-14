@@ -235,15 +235,6 @@ This project is designed as an educational tool for learning Python fundamentals
 
 ---
 
-## 📞 Contact & Support
-
-- **Author**: Dennis
-- **Email**: your.email@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
-
-For issues, questions, or suggestions, please [open an issue](https://github.com/yourusername/python-atm-banking-system/issues) on GitHub.
-
----
 
 ## 📚 Additional Resources
 
